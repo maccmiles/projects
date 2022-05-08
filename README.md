@@ -18,3 +18,6 @@ Some of my Skills are:
 I enjoy Writing Scripts and creating new things with the technologies I learn. 
 
 If you're interested in getting in touch, please visit [maccmiles.info](https://www.maccmiles.info)
+
+
+_If you'd like to see some of my actual work and procedures, please get in touch. Much of my development at the time is closed-source and not publically available. (hoping to change that soon!)_

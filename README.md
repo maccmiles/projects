@@ -1,23 +1,18 @@
 # Projects
-### Hi there!
+### Heyo
 
-I'm _**Miles Macchiaroli**_, A Computer Networking Student that is facinated about technology, and its impact on the world around me. 
+I'm _**Miles**_, A ~~Computer Networking Student that is facinated about technology, and its impact on the world around me~~ guy that does things. 
 
-Here you will find small, Personal Projects that either help with the monotonous tasks in my day, or ones that leverage the power of AI to solve the worlds greatest problems.
+~~Here you will find small, Personal Projects that either help with the monotonous tasks in my day, or ones that leverage the power of AI to solve the worlds greatest problems.~~ an old professor made me put that, these are snippets of snippets of classes and some things I'd like to reference quickly. 
 
 Some of my Skills are:
-* Audio/Visual Production
-* Technical Theatre
-* Network Administration
-* Web Systems Configuration
-* VPS Configuration
-* Mechanical Engineering
-* Robotics
-* Computer Repair
+* _Redacted_
+* sleep
 
-I enjoy Writing Scripts and creating new things with the technologies I learn. 
+uhm [bash/COMP3550/Lab1/algs.py](https://github.com/maccmiles/projects/blob/master/bash/COMP3550/Lab1/algs.py) is probably the only 'cool' thing that does code and stuff, made as a lab for a class when I used to care.
 
-If you're interested in getting in touch, please visit [maccmiles.info](https://www.maccmiles.info)
+Otherwise, _bash/_ has a few snippets of manual account creation and notifications for systems that aren't in ansible for whatever reason.
 
 
-_If you'd like to see some of my actual work and procedures, please get in touch. Much of my development at the time is closed-source and not publically available. (hoping to change that soon!)_
+something, something, getting in touch, please visit [website](https://miles.macchiaro.li)
+
